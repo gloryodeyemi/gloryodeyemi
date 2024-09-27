@@ -1,7 +1,7 @@
 ![Banner](images/My%20Banner.png)
 
 # Hi, I’m Glory Odeyemi! 👋
-I am on the path to becoming a data engineer with strong analytical skills while pursuing my Master’s in Computer Science, specializing in Artificial Intelligence at the [University of Windsor](https://www.uwindsor.ca/). I am currently exploring encoder-decoder transformer models for text summarization.
+I am on the path to becoming a data engineer with strong analytical skills while pursuing my Master’s in Computer Science, specializing in Artificial Intelligence at the <a href="https://www.uwindsor.ca/" target="_blank">University of Windsor</a>. I am currently exploring encoder-decoder transformer models for text summarization.
 
 ## A Little About Me
 ✝️ Christian
@@ -27,7 +27,8 @@ I am on the path to becoming a data engineer with strong analytical skills while
 
 ## Projects
 **Portfolio Coming Soon!**
-Feel free to check out [my repository](https://github.com/gloryodeyemi?tab=repositories) for ongoing projects and code samples.
+
+Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories" target="_blank">my repositories</a> for ongoing projects and code samples.
 
 ## Skills & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -40,9 +41,9 @@ Feel free to check out [my repository](https://github.com/gloryodeyemi?tab=repos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ## I’m Currently Learning
-👩‍💻 [Data Engineering 101](https://www.startdataengineering.com/email-course/)
+👩‍💻 <a href="https://www.startdataengineering.com/email-course/" target="_blank">Data Engineering 101</a>
 
-👩‍💻 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=24T4MT92724A)
+👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glory-odeyemi-a3a680169/)
