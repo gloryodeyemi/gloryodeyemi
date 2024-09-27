@@ -1,6 +1,7 @@
 ![Banner](images/My%20Banner.png)
 
 # Hi, I’m Glory Odeyemi! 👋
+I am on the path to becoming a data engineer with strong analytical skills while pursuing my Master’s in Computer Science, specializing in Artificial Intelligence at the [University of Windsor](https://www.uwindsor.ca/). I am currently exploring encoder-decoder transformer models for text summarization.
 
 ## A Little About Me
 ✝️ Christian
@@ -11,9 +12,9 @@
 
 🧩 Enjoy gaming and watching movies🍿
 
-🐶 Dog lover, but don’t own any.
+🐶 Dog lover, but don’t own any (yet!).
 
-🌱 Introverted to all, comfortable to few.
+🌱 Introverted to all, comfortable with few.
 
 ## Interests
 👩‍💻 Data Engineering
@@ -23,6 +24,10 @@
 🤖 Machine Learning
 
 🤖 Natural Language Processing
+
+## Projects
+**Portfolio Coming Soon!**
+Feel free to check out [my repository](https://github.com/gloryodeyemi?tab=repositories) for ongoing projects and code samples.
 
 ## Skills & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -47,9 +52,16 @@
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://glowcodes.hashnode.dev/)
 
 
-
-
-
+<!--
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-30B8B1?logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-FFFFFF?logo=beautifulsoup&logoColor=black)
+![Requests](https://img.shields.io/badge/-Requests-FF6F20?logo=requests&logoColor=white)
+-->
 
 <!--
 **gloryodeyemi/gloryodeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
