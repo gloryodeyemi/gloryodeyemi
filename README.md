@@ -1,6 +1,6 @@
 ![Banner](images/My%20Banner.png)
 
-## Hi there 👋
+# Hi, I'm Glory Odeyemi! 👋
 
 <!--
 **gloryodeyemi/gloryodeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
