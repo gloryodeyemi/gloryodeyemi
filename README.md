@@ -45,6 +45,10 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 
 👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
 
+👩‍💻 <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
+
+👩‍💻 <a href="https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF" target="_blank">Data Analyst Bootcamp</a>
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glory-odeyemi-a3a680169/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/GloryOdeyemi)
