@@ -43,14 +43,15 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 ## I’m Currently Learning
 👩‍💻 <a href="https://www.startdataengineering.com/email-course/" target="_blank">Data Engineering 101</a>
 
+<!--
 👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
 
-👩‍💻 <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
-
 👩‍💻 <a href="https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF" target="_blank">Data Analyst Bootcamp</a>
+-->
 
 ## Completed
 🎓 <a href="https://drive.google.com/file/d/1yOSJUCNt9guHYM2JQFDffJ2fz0I_35QV/view?usp=sharing" target="_blank">Linux For Beginners: Linux Basics</a>
+🎓 <a href="https://drive.google.com/file/d/1Z060jwKi9e-XusRCjMzkfmc_JyTYxvL3/view?usp=drive_link" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glory-odeyemi-a3a680169/)
