@@ -25,6 +25,8 @@ I am on the path to becoming a data engineer with strong analytical skills and a
 
 🤖 Natural Language Processing
 
+🤖 AI Engineering
+
 ## Projects
 **Portfolio Coming Soon!**
 
