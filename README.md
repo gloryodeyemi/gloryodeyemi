@@ -45,6 +45,8 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 ## I’m Currently Learning
 👩‍💻 <a href="https://www.startdataengineering.com/email-course/" target="_blank">Data Engineering 101</a>
 
+👩‍💻 <a href="https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql" target="_blank">Associate Data Engineer in SQL</a>
+
 <!--
 👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
 
