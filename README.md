@@ -38,14 +38,14 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
+
 
 ## Familiar with
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ## I’m Currently Learning
 👩‍💻 <a href="https://www.startdataengineering.com/email-course/" target="_blank">Data Engineering 101</a>
-
-👩‍💻 <a href="https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql" target="_blank">Associate Data Engineer in SQL</a>
 
 <!--
 👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
@@ -57,6 +57,8 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 🎓 <a href="https://drive.google.com/file/d/1yOSJUCNt9guHYM2JQFDffJ2fz0I_35QV/view?usp=sharing" target="_blank">Linux For Beginners: Linux Basics</a>
 
 🎓 <a href="https://drive.google.com/file/d/1Z060jwKi9e-XusRCjMzkfmc_JyTYxvL3/view?usp=drive_link" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
+
+👩‍💻 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/c5b5c38ae5c0fb7ef243857d49ac85b020c6bd2c" target="_blank">Associate Data Engineer in SQL</a>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glory-odeyemi-a3a680169/)
