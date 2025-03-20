@@ -49,6 +49,8 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 
 👩‍💻 <a href="https://app.datacamp.com/learn/career-tracks/data-engineer-in-python?showLatestVersion=true" target="_blank">Data Engineer in Python</a>
 
+👩‍💻 <a href="https://www.analystbuilder.com/courses/foundations-of-data-pipelines" target="_blank">Foundation of Data Pipelines</a>
+
 <!--
 👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
 
