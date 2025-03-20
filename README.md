@@ -57,7 +57,7 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 👩‍💻 <a href="https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF" target="_blank">Data Analyst Bootcamp</a>
 -->
 
-## Completed
+## Certifications
 🎓 <a href="https://drive.google.com/file/d/1yOSJUCNt9guHYM2JQFDffJ2fz0I_35QV/view?usp=sharing" target="_blank">Linux For Beginners: Linux Basics</a>
 
 🎓 <a href="https://drive.google.com/file/d/1Z060jwKi9e-XusRCjMzkfmc_JyTYxvL3/view?usp=drive_link" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
