@@ -1,7 +1,7 @@
 ![Banner](images/My%20Banner.png)
 
 # Hi, I’m Glory Odeyemi! 👋
-I am on the path to becoming a data engineer with strong analytical skills and a passion for data-driven solutions. I hold a Master’s in Computer Science with a specialization in Artificial Intelligence from the <a href="https://www.uwindsor.ca/" target="_blank">University of Windsor</a>. My recent work involved exploring encoder-decoder transformer models for text summarization, and I am now focused on expanding my expertise in data engineering, including data pipelines, ETL processes, and cloud technologies.
+I am a data engineer with strong analytical skills and a passion for data-driven solutions. I hold a Master’s in Computer Science with a specialization in Artificial Intelligence from the <a href="https://www.uwindsor.ca/" target="_blank">University of Windsor</a>. My recent work involved exploring encoder-decoder transformer models for text summarization, and I am now focused on expanding my expertise in data engineering, including data pipelines, ETL processes, and cloud technologies.
 
 ## A Little About Me
 ✝️ Christian
