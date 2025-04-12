@@ -16,6 +16,18 @@ I am a data engineer with strong analytical skills and a passion for data-driven
 
 🌱 Introverted to all, comfortable with few.
 
+## Skills & Technologies  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
+
+## Familiar with
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
 ## Interests
 👩‍💻 Data Engineering
 
@@ -31,18 +43,6 @@ I am a data engineer with strong analytical skills and a passion for data-driven
 **Portfolio Coming Soon!**
 
 Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories" target="_blank">my repositories</a> for ongoing projects and code samples.
-
-## Skills & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
-
-
-## Familiar with
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ## I’m Currently Learning
 👩‍💻 <a href="https://www.startdataengineering.com/email-course/" target="_blank">Data Engineering 101</a>
