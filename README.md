@@ -43,8 +43,6 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 
 👩‍💻 <a href="https://app.datacamp.com/learn/career-tracks/data-engineer-in-python?showLatestVersion=true" target="_blank">Data Engineer in Python</a>
 
-👩‍💻 <a href="https://www.analystbuilder.com/courses/foundations-of-data-pipelines" target="_blank">Foundation of Data Pipelines</a>
-
 <!--
 👩‍💻 <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">100 Days of Code: The Complete Python Pro Bootcamp</a>
 
@@ -57,6 +55,8 @@ Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories
 🎓 <a href="https://drive.google.com/file/d/1Z060jwKi9e-XusRCjMzkfmc_JyTYxvL3/view?usp=drive_link" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
 
 👩‍💻 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/c5b5c38ae5c0fb7ef243857d49ac85b020c6bd2c" target="_blank">Associate Data Engineer in SQL</a>
+
+👩‍💻 <a href="https://www.analystbuilder.com/achievements/verify/IAGI95OQTI?r=pgVdz8ZypKn0XkJoFS4QevVkQ" target="_blank">Foundation of Data Pipelines</a>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glory-odeyemi-a3a680169/)
