@@ -39,7 +39,9 @@ I am a data engineer with strong analytical skills and a passion for data-driven
 Feel free to check out <a href="https://github.com/gloryodeyemi?tab=repositories" target="_blank">my repositories</a> for ongoing projects and code samples.
 
 ## I’m Currently Learning
+<!--
 👩‍💻 <a href="https://www.startdataengineering.com/email-course/" target="_blank">Data Engineering 101</a>
+-->
 
 👩‍💻 <a href="https://app.datacamp.com/learn/career-tracks/data-engineer-in-python?showLatestVersion=true" target="_blank">Data Engineer in Python</a>
 
